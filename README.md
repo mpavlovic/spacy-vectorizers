@@ -11,5 +11,5 @@ punctuation removal support is also added.
 * scikit-learn 0.19.1
 * spaCy 2.0.4
 
-Usage:
+#### Usage:
 Please refer to the <a href="https://github.com/mpavlovic/spacy-vectorizers/blob/master/Usage%20Examples%20%26%20%20Tests.ipynb">Usage Examples & Tests</a> Jupyter notebook.
