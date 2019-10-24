@@ -12,4 +12,4 @@ punctuation removal support is also added.
 * spaCy 2.0.4
 
 #### Usage:
-Please refer to the <a href="https://github.com/mpavlovic/spacy-vectorizers/blob/master/Usage%20Examples%20%26%20%20Tests.ipynb">Usage Examples & Tests</a> Jupyter notebook.
+Please refer to the <a href="https://github.com/mpavlovic/spacy-vectorizers/blob/master/Usage%20Examples%20%26%20%20Tests.ipynb">Usage Examples & Tests</a> Jupyter notebook or [here](https://nbviewer.jupyter.org/github/mpavlovic/spacy-vectorizers/blob/master/Usage%20Examples%20%26%20%20Tests.ipynb).
